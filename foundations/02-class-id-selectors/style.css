@@ -1,0 +1,20 @@
+.number {
+  background-color: #fdbac5;
+  font-size: 24px;
+  font-family: verdana, "sans-seriff";
+}
+#number {
+  color: blue;
+  font-size: 60px;
+  font-weight: bold;
+  font-family: "DejaVu Sans", "sans-serif";
+}
+#number2 {
+  background-color: #85eb85;
+  font-size: 30px;
+  font-family: "DejaVu Sans", "sans-serif";
+  font-weight: bolder;
+}
+.num {
+  font-size: 30px;
+}
